@@ -1,0 +1,41 @@
+# Simulation output files
+*.vcd
+*.wlf
+*.log
+*.vstf
+
+# ModelSim files
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# Xilinx Vivado files
+*.jou
+*.str
+.Xil/
+*.xpr
+*.bit
+*.runs/
+*.cache/
+*.ip_user_files/
+*.sim/
+*.hw/
+*.os
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
